@@ -1,3 +1,9 @@
+/*
+*Himansu Yapa
+*CST338
+*3/2/2026
+*/
+
 import java.util.HashMap;
 
 public abstract class Monster {
@@ -48,7 +54,7 @@ public abstract class Monster {
 
     @Override
     public int hashCode() {
-        return 0; // placeholder
+        return 0; // placeholders
     }
 
     @Override
