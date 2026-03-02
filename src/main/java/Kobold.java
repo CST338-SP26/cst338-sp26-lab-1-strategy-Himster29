@@ -4,6 +4,8 @@
 *3/2/2026
 */
 
+import java.util.HashMap;
+
 public class Kobold extends Monster {
 
     public Kobold(Integer hp, Integer xp, Integer maxHP, HashMap<String, Integer> items) {

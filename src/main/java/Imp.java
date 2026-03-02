@@ -1,3 +1,9 @@
+/*
+*Himansu Yapa
+*CST338
+*3/2/2026
+*/
+
 public class Imp extends Monster {
 
     public Imp(Integer hp, Integer xp, Integer maxHP, HashMap<String, Integer> items) {
