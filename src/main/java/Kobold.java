@@ -14,6 +14,6 @@ public class Kobold extends Monster {
 
     @Override
     public String toString() {
-        return ""; // placeholder
+        return hp + "/" + maxHP + " hp, xp: " + xp + ", items: " + items; // placeholder
     }
 }
